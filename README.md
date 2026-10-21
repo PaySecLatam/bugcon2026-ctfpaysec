@@ -13,6 +13,8 @@ Bienvenido al reto de seguridad de PaySec Village. Tienes acceso a un ecosistema
 - **APK Android** — aplicación de punto de venta móvil
 - **Backend API** — servidor de pagos con múltiples endpoints
 - **Hardware BLE** — lector físico ESP32 simulando un miniPOS real
+- **Los ejercicios resueltos durante el workshop de Salvador Mendoza** también serán tomados en cuenta
+- **Bonus:** demostrar un ataque de relay NFC será considerado de alto valor dentro del CTF
 
 Tu objetivo es encontrar vulnerabilidades reales en cada capa del sistema y capturar las flags.
 
